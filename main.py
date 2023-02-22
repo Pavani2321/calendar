@@ -1,2 +1,2 @@
 import calendar
-print(calendar.month(year,month))
+print(calendar.month(2023,2))
